@@ -6,6 +6,6 @@ https://github.com/Incrementis/Javascript-stack-trace-with-caller-/wiki
 
 WARNING: 
 
-The files and the code posted here contains recursive functions.
+The file "stack.js" contains a recursive function which will, if activated, shut down your browser
 
-Please use it with caution and only if you know what you are doing.
+Please use the project with caution and only if you know what you are doing.
